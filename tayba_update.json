@@ -1,5 +1,12 @@
 {
   "latest": "1.0.6",
   "android_url": "https://play.google.com/store/apps/details?id=com.tayba.app",
-  "notes": { "fr": "…", "en": "…", "ar": "…", "es": "…", "id": "…", "tr": "…" }
+  "notes": {
+  "fr": "Ajout du Coran et nouveau design",
+  "en": "Added Quran and new design",
+  "ar": "إضافة القرآن وتصميم جديد",
+  "es": "Añadido el Corán y nuevo diseño",
+  "id": "Menambahkan Al-Qur'an dan desain baru",
+  "tr": "Kur’an eklendi ve yeni tasarım"
+}
 }
