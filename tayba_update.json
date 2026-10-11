@@ -1,12 +1,14 @@
 {
-  "latest": "1.0.25",
+  "latest": "1.0.27",
   "android_url": "https://play.google.com/store/apps/details?id=com.tayba.app",
   "notes": {
-    "fr": "Nouveau design",
-    "en": "New design",
-    "ar": "تصميم جديد",
-    "es": "Nuevo diseño",
-    "id": "Desain baru",
-    "tr": "Yeni tasarım"
+    "fr": "Invocations enrichies, navigation améliorée et politique de confidentialité mise à jour.",
+    "en": "Expanded supplications, improved navigation and updated privacy policy.",
+    "ar": "توسيع محتوى الأدعية والأذكار، وتحسين التنقل، وتحديث سياسة الخصوصية.",
+    "es": "Más súplicas, navegación mejorada y política de privacidad actualizada.",
+    "id": "Konten doa diperluas, navigasi ditingkatkan, dan kebijakan privasi diperbarui.",
+    "tr": "Dua içeriği genişletildi, gezinme iyileştirildi ve gizlilik politikası güncellendi.",
+    "bn": "দোয়ার সংগ্রহ সমৃদ্ধ করা হয়েছে, নেভিগেশন উন্নত করা হয়েছে এবং গোপনীয়তা নীতি হালনাগাদ করা হয়েছে।",
+    "ru": "Расширен сборник дуа, улучшена навигация и обновлена политика конфиденциальности."
   }
 }
