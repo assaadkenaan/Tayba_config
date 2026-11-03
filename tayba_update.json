@@ -1,14 +1,13 @@
 {
-  "latest": "1.0.27",
+  "latest": "1.0.30",
   "android_url": "https://play.google.com/store/apps/details?id=com.tayba.app",
   "notes": {
-    "fr": "Invocations enrichies, navigation améliorée et politique de confidentialité mise à jour.",
-    "en": "Expanded supplications, improved navigation and updated privacy policy.",
-    "ar": "توسيع محتوى الأدعية والأذكار، وتحسين التنقل، وتحديث سياسة الخصوصية.",
-    "es": "Más súplicas, navegación mejorada y política de privacidad actualizada.",
-    "id": "Konten doa diperluas, navigasi ditingkatkan, dan kebijakan privasi diperbarui.",
-    "tr": "Dua içeriği genişletildi, gezinme iyileştirildi ve gizlilik politikası güncellendi.",
-    "bn": "দোয়ার সংগ্রহ সমৃদ্ধ করা হয়েছে, নেভিগেশন উন্নত করা হয়েছে এবং গোপনীয়তা নীতি হালনাগাদ করা হয়েছে।",
-    "ru": "Расширен сборник дуа, улучшена навигация и обновлена политика конфиденциальности."
+    "fr": "Lecture du Coran et invocations améliorées, affichage des thèmes stabilisé et téléchargements audio hors ligne fiabilisés.",
+    "en": "Improved Quran reading and supplications, more stable theme rendering, and more reliable offline audio downloads.",
+    "ar": "تحسين قراءة القرآن والأدعية والأذكار، وتحسين استقرار مظهر الواجهة وموثوقية تنزيلات الصوت للاستماع دون اتصال.",
+    "es": "Mejoras en la lectura del Corán y las súplicas, mayor estabilidad visual de los temas y descargas de audio más fiables para escuchar sin conexión.",
+    "id": "Penyempurnaan bacaan Al-Qur’an dan doa, tampilan tema yang lebih stabil, serta unduhan audio yang lebih andal untuk didengarkan tanpa internet.",
+    "tr": "Kur’an okuma ve dua bölümleri iyileştirildi, tema görünümü daha kararlı hâle getirildi ve çevrimdışı dinleme için ses indirmeleri daha güvenilir oldu.",
+    "bn": "কুরআন পাঠ ও দোয়ার বিভাগ উন্নত করা হয়েছে, থিমের প্রদর্শন আরও স্থিতিশীল করা হয়েছে এবং ইন্টারনেট ছাড়া শোনার জন্য অডিও ডাউনলোড আরও নির্ভরযোগ্য করা হয়েছে।",
+    "ru": "Улучшены чтение Корана и раздел дуа, повышены стабильность оформления и надёжность загрузки аудио для прослушивания без интернета."
   }
-}
