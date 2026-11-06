@@ -1,13 +1,14 @@
 {
-  "latest": "1.0.30",
+  "latest": "1.0.32",
   "android_url": "https://play.google.com/store/apps/details?id=com.tayba.app",
   "notes": {
-    "fr": "Lecture du Coran et invocations améliorées, affichage des thèmes stabilisé et téléchargements audio hors ligne fiabilisés.",
-    "en": "Improved Quran reading and supplications, more stable theme rendering, and more reliable offline audio downloads.",
-    "ar": "تحسين قراءة القرآن والأدعية والأذكار، وتحسين استقرار مظهر الواجهة وموثوقية تنزيلات الصوت للاستماع دون اتصال.",
-    "es": "Mejoras en la lectura del Corán y las súplicas, mayor estabilidad visual de los temas y descargas de audio más fiables para escuchar sin conexión.",
-    "id": "Penyempurnaan bacaan Al-Qur’an dan doa, tampilan tema yang lebih stabil, serta unduhan audio yang lebih andal untuk didengarkan tanpa internet.",
-    "tr": "Kur’an okuma ve dua bölümleri iyileştirildi, tema görünümü daha kararlı hâle getirildi ve çevrimdışı dinleme için ses indirmeleri daha güvenilir oldu.",
-    "bn": "কুরআন পাঠ ও দোয়ার বিভাগ উন্নত করা হয়েছে, থিমের প্রদর্শন আরও স্থিতিশীল করা হয়েছে এবং ইন্টারনেট ছাড়া শোনার জন্য অডিও ডাউনলোড আরও নির্ভরযোগ্য করা হয়েছে।",
-    "ru": "Улучшены чтение Корана и раздел дуа, повышены стабильность оформления и надёжность загрузки аудио для прослушивания без интернета."
+    "fr": "Lecture et navigation dans le Coran améliorées, chiffres adaptés à la langue et widget d’invocations enrichi, avec une sélection plus pertinente et un affichage mieux adapté.",
+    "en": "Improved Quran reading and navigation, language-appropriate numerals, and an enhanced supplications widget with more relevant selections and a more adaptive layout.",
+    "ar": "تحسين قراءة القرآن والتنقل فيه، وعرض الأرقام بحسب اللغة، وإثراء أداة الأدعية والأذكار على الشاشة الرئيسية مع اختيار أنسب للمحتوى وعرض أكثر تكيفًا.",
+    "es": "Lectura y navegación del Corán mejoradas, números adaptados al idioma y un widget de súplicas ampliado, con una selección más pertinente y una presentación más adaptable.",
+    "id": "Peningkatan bacaan dan navigasi Al-Qur’an, angka sesuai bahasa, serta widget doa dan zikir yang diperkaya dengan pilihan lebih relevan dan tampilan lebih adaptif.",
+    "tr": "Kur’an okuma ve gezinme deneyimi iyileştirildi, rakamlar dile uyarlandı ve dua ve zikir widget’ı daha uygun içerik seçimi ve daha uyumlu bir görünümle zenginleştirildi.",
+    "bn": "কুরআন পাঠ ও নেভিগেশন উন্নত করা হয়েছে, ভাষা অনুযায়ী সংখ্যা প্রদর্শন করা হচ্ছে এবং দোয়া ও যিকিরের উইজেটে আরও প্রাসঙ্গিক বাছাই ও মানানসই প্রদর্শন যুক্ত করা হয়েছে।",
+    "ru": "Улучшены чтение Корана и навигация, цифры адаптированы к языку, а виджет дуа и зикра дополнен более подходящими текстами и адаптивным отображением."
   }
+}
